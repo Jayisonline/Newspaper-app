@@ -53,7 +53,7 @@ pyinstaller==4.3
 pyinstaller-hooks-contrib==2021.2
 
 pyperclip==1.8.2
-pypiwin32==223
+
 PyPrind==2.11.3
 PyRect==0.1.4
 PyScreeze==0.1.28
