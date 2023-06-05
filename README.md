@@ -53,4 +53,4 @@ python manage.py runserver
 
 We hope you enjoy using the Newspaper-app to stay informed and connected with the latest news. If you have any questions, suggestions, or encounter any issues, please don't hesitate to open an issue on the GitHub repository.
 
-Happy reading!
+Happy coding!
